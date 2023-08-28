@@ -1,7 +1,7 @@
 # hiring-full-jeremylebedieff
 
 Présentation
-Bienvenue dans mon univers digital où le code prend vie et les idées prennent forme! Je suis enchanté de vous présenter mon portfolio, une vitrine de mon savoir-faire, de ma créativité et de ma passion pour le développement.
+Bienvenue dans mon univers digital où le code prend vie et les idées prennent forme! Je suis enchanté de vous présenter e mon savoir-faire, de ma créativité et de ma passion pour le développement.
 
 À Propos de Moi
 Je suis un développeur avec une vision : transformer des lignes de code en expériences uniques. Mon engagement envers l'excellence technique et ma quête d'innovation constante font de chaque projet un terrain de jeu pour la découverte et la réalisation.
