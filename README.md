@@ -16,7 +16,11 @@ Architecture: Capacité à concevoir des architectures logicielles robustes et �
  mes oeuvres : 
  
 https://www.mandatory.gg/ 
+
+
 https://annam-finefood.com/about-us/
+
+
 /www.laposte.fr/lp/sl/envoyer-un-colis?at_medium=sl&at_campaign=M_G_Colis_PART_Marque_La_Poste&at_platform=google&at_creation=Colis_La_Poste_Colis&at_variant=622796604176&at_network=search&at_term=colis%20recommand%C3%A9%20la%20poste&gclsrc=aw.ds&&xtor=-GOO-[]-[622796604176]-S-[colis%20recommand%C3%A9%20la%20poste]&compte=Colissimo&gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4mgh-T1NNQLw11e_CcJcoAFjQVmBeUuB6T-ZQoktuwjq6wuiVdboJAaAp94EALw_wcB-group.com/
 
 
